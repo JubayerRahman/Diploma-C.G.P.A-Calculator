@@ -16,7 +16,7 @@ function result(){
     var sem55 = sem5/(100/15);
     var sem66 = sem6/(100/20);
     var sem77 = sem7/(100/25);
-    var sem88 = sem8/(100/10);
+    var sem88 = sem8/(100/15);
 
      var cgpa= sem11+ sem22 + sem33 + sem44 + sem55 + sem66 + sem77 + sem88;
 
